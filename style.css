@@ -1,0 +1,28 @@
+h3 {
+  color: yellowgreen;
+}
+
+/*common properties*/
+
+h4 { /*color and background*/
+  background-color: rgba(131, 128, 128, 0.5);
+  color: #000;
+}
+
+div {
+    /*width and height*/
+    width: 100%;
+    max-width: 200px;
+    height: 100vh;
+    /*avoid hardcoding height*/
+
+    /*borders*/
+    border: 5px solid black;
+    border-width: 2px;
+
+    /*font size, weight, and family*/
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "montserrat", sans-serif;
+
+}
